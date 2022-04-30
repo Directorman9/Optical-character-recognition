@@ -1,1 +1,2 @@
 # Optical-character-recognition
+The notebook in this repository uses pytesseract to extract text from a pdf document. The script can be used to automate text acquisition from a large body of printed resources such as books. The acquired text can then be used for dowstream tasks, such as training language models, topic models, document summarization etc. For more details have a look at <a href="https://colab.research.google.com/drive/1G_H0s8OVIFb1e1SWSols5xOc1-1Ys-0J?usp=sharing">the notebook</a>
